@@ -1,0 +1,13 @@
+.edit_button{
+    width: 140px;
+    height: 50px;
+     border-radius: 10px;
+     background-color: #0078C8;
+     color: white;
+     font-size: 16px;
+     font-weight: 700;
+     border:1px solid white;
+     &:hover{
+        background-color: #083f6a;
+     }
+}

@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "brand": "Item1",
+      "stock": 3
+    },
+    {
+      "id": 2,
+      "brand": "Item2",
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "brand": "Item3",
+      "stock": 7
+    }
+  ]
